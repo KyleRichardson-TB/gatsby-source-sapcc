@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-source-sapcc",
+  "version": "1.0.0",
+  "description": "Gatsby source plugin for SAP Commerce Cloud CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gatsby",
+    "plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.3",
+    "gatsby-node-helpers": "^0.3.0",
+    "qs": "^6.5.2"
+  }
+}
