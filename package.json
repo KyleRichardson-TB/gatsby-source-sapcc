@@ -2,7 +2,7 @@
   "name": "gatsby-source-sapcc",
   "version": "1.0.0",
   "description": "Gatsby source plugin for SAP Commerce Cloud CMS",
-  "main": "index.js",
+  "repository": "git@github.com:KyleRichardson-TB/gatsby-source-sapcc.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
